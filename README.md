@@ -133,7 +133,7 @@ http://localhost:8000/admin
 
 # 🧪 Demo Video
 
-> Sertakan link YouTube atau Drive sesuai ketentuan pengumpulan.
+> [Demo Video Penjelasan](https://drive.google.com/file/d/1WZSFT0rHJGjpH_h0WYXDRz-uJEFt-09E/view?usp=sharing).
 
 ---
 
